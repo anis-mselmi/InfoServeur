@@ -11,6 +11,8 @@ source "$BASE_DIR/modules/memory.sh"
 source "$BASE_DIR/modules/disk.sh"
 source "$BASE_DIR/modules/network.sh"
 
+#output de terminal 
+
 main() {
   init_colors
   clear_screen
